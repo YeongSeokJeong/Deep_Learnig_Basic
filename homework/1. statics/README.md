@@ -23,8 +23,7 @@
     x_1, x_2 ...
     $$
     
-
-  - Random vector : 확률 벡터
+- Random vector : 확률 벡터
 
 $$
 \boldsymbol{x_1, x_2}...
